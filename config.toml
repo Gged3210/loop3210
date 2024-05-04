@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Fur"
+title = "Tq Very Nice Page"
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -10,16 +10,16 @@ disableKinds = ["taxonomy", "term"]
 snipcart_key = "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
 
 [params.author]
-name = "fur"
-email = "fur@example.com"
+name = "Nice"
+email = "trump@najib.anwar"
 twitter = "fur" # twitter username without the @ symbol
-phone = "+1 23456789"
+phone = "+60176986630"
 
-[params.social]
-name = "Fur Template"
-links = [
-	"https://github.com/CloudCannon/fur-hugo-template"
-]
+# [params.social]
+# name = "Fur Template"
+# links = [
+# 	"https://github.com/CloudCannon/fur-hugo-template"
+# ]
 
 [_select_data]
 garment_type = ["hat", "top"]

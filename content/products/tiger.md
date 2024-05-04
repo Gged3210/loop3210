@@ -1,15 +1,14 @@
 ---
-title: Tiger
-name: Gavin the Tiger
+title: Very Big Tractor
+name: Very Big Tractor
 description_markdown: >-
-  Gavin the tiger was brought up vegan. His favorite meal is chickpea salad with
-  a lemon juice dressing.
+  Because sometimes tractor is faster than the car on highway. It is a John Deere 5075E tractor, a mid-range utility tractor.  John Deere is a well-known manufacturer of agricultural machinery and the green and yellow color scheme is their signature.
 
 
 
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+
 garment_type:
-price: '9.00'
+price: '621569.00'
 sku: tiger
 stock: 10
 sizes:
@@ -20,17 +19,5 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/tiger/black.jpg
-  - name: Blue
-    color: '#39589e'
-    image: /images/products/tiger/blue.jpg
-  - name: Clay
-    color: '#9c5145'
-    image: /images/products/tiger/clay.jpg
-  - name: Cream
-    color: '#dfd3c2'
-    image: /images/products/tiger/cream.jpg
-  - name: Green
-    color: '#67aa79'
-    image: /images/products/tiger/green.jpg
+    image: /images/products/tractor/tractors.png
 ---

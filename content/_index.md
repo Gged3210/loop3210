@@ -1,7 +1,7 @@
 ---
-title: Find Your Spirit Animal
-hero: Find your spirit animal
-subtitle: The animal friendly clothing company
+title: We made ESG Great Again
+hero: We made ESG Great Again
+subtitle: The ESG Company you'd ever need
 
 menu:
   main:
