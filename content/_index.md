@@ -1,6 +1,6 @@
 ---
-title: We made ESG Great Again
-hero: We made ESG Great Again
+title: We made Your Old Assets Great Again
+hero: We made Your Old Assets Great Again
 subtitle: The ESG Company you'd ever need
 
 menu:
